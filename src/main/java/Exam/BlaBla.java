@@ -11,7 +11,6 @@ public class BlaBla {
             //Special characters - escape character
         String string = "\tI will pass this \"exam\".\n"; //also use for ' and \
         System.out.print(string);
-        System.out.println(string);
 
 
 
